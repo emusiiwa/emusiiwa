@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Emmanuel Musiiwa 👋
 
-![Emmanuel Musiiwa](https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png)
+![Emmanuel Musiiwa](https://media.licdn.com/dms/image/v2/D4D03AQHpFzkkRIJ67g/profile-displayphoto-crop_800_800/B4DZ0Mw9.iHEAI-/0/1774035658430?e=1776297600&v=beta&t=s60kg3WfT_qcFL8O-3W7Z95_1nf-W1Jhr3pcuO1lvF4)
 
 **Software Developer | Master's Candidate in Computer Science**
 
