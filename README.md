@@ -14,14 +14,20 @@ Here are some ideas to get you started:
 -->
 
 
+<div align="center">
+
 # Hi there, I'm Emmanuel Musiiwa 👋
 
-<img src="https://media.licdn.com/dms/image/v2/D4D03AQHpFzkkRIJ67g/profile-displayphoto-crop_800_800/B4DZ0Mw9.iHEAI-/0/1774035658430?e=1776297600&v=beta&t=s60kg3WfT_qcFL8O-3W7Z95_1nf-W1Jhr3pcuO1lvF4" width="200" alt="Emmanuel Musiiwa">
+<img src="https://media.licdn.com/dms/image/v2/D4D03AQHpFzkkRIJ67g/profile-displayphoto-crop_800_800/B4DZ0Mw9.iHEAI-/0/1774035658430?e=1776297600&v=beta&t=s60kg3WfT_qcFL8O-3W7Z95_1nf-W1Jhr3pcuO1lvF4" width="250" alt="Emmanuel Musiiwa">
+
 
 
 **Software Developer | Master's Candidate in Computer Science**
 
-I am a software developer and computer science researcher with a strong foundation in Information Systems. I specialize in building data-driven applications, designing secure backend architectures, and developing intuitive web interfaces. Whether I am training machine learning models, analyzing system vulnerabilities, or building full-stack web apps, I am passionate about writing clean, efficient code to solve complex engineering challenges.
+</div>
+
+
+I am a software developer and computer science researcher with a strong foundation in Information Systems. I specialise in building data-driven applications, designing secure backend architectures, and developing intuitive web interfaces. Whether I am training machine learning models, analysing system vulnerabilities, or building full-stack web apps, I am passionate about writing clean, efficient code to solve complex engineering challenges.
 
 ### 💻 Languages & Core Technologies
 
@@ -37,14 +43,24 @@ I am a software developer and computer science researcher with a strong foundati
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-**Data & Architecture:**
+**Databases & Architecture:**
 ![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🚀 Featured Projects
 
-#### 🎓 [Izifundo Platform](https://izifundo.com/)
-* **What it is:** A web platform built to connect students with tutors.
+#### 🛡️ Data-Centric Ransomware Detection Model
+* **What it is:** My MSc research focuses on a data-centric approach to ransomware detection, specifically mitigating class imbalance in dynamic datasets.
+
+* **The Development:** Processing dynamic analysis datasets and engineering features to train robust machine learning models capable of classifying malicious behaviour despite heavily skewed data distributions.
+
+* **Tech Stack:** Python, scikit-learn, pandas, Cuckoo Sandbox.
+
+#### 💻 [Izifundo](https://izifundo.com/)
+* **What it is:** A full-stack web platform built to connect students with tutors.
+
+* **The Development:** Designed the relational database schema, implemented secure user authentication, and built a responsive frontend integrated with a PHP backend.
+
 * **Tech Stack:** HTML, CSS, JavaScript, PHP, SQL.
 
 #### 💻 [Los Santos Customs](https://github.com/emusiiwa/LosSantosCustoms)
