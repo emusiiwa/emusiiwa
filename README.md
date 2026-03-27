@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 <img src="[PASTE_YOUR_LINKEDIN_IMAGE_ADDRESS_HERE](https://media.licdn.com/dms/image/v2/D4D03AQHpFzkkRIJ67g/profile-displayphoto-crop_800_800/B4DZ0Mw9.iHEAI-/0/1774035658430?e=1776297600&v=beta&t=s60kg3WfT_qcFL8O-3W7Z95_1nf-W1Jhr3pcuO1lvF4)" width="200" alt="Emmanuel Musiiwa">
 
-![Emmanuel Musiiwa]()
 
 **Software Developer | Master's Candidate in Computer Science**
 
