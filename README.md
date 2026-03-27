@@ -13,7 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 # Hi there, I'm Emmanuel Musiiwa 👋
+
+![Emmanuel Musiiwa](https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png)
 
 **Software Developer | Master's Candidate in Computer Science**
 
@@ -43,9 +46,13 @@ I am a software developer and computer science researcher with a strong foundati
 * **What it is:** A web platform built to connect students with tutors.
 * **Tech Stack:** HTML, CSS, JavaScript, PHP, SQL.
 
+#### 💻 [Los Santos Customs](https://github.com/emusiiwa/LosSantosCustoms)
+* **What it is:** A comprehensive e-commerce web system developed for selling cars.
+* **Tech Stack:** HTML, CSS, JavaScript, PHP.
+
 #### 💻 [PC Repair System](https://github.com/emusiiwa/PC_Repair_System)
 * **What it is:** A comprehensive web system developed for managing PC repair operations.
-* **Tech Stack:** PHP, JavaScript, Bootstrap.
+* **Tech Stack:** HTML, CSS, PHP, JavaScript, Bootstrap.
 
 ### 📫 Get In Touch
 * **Portfolio:** [emusiiwa-portfolio.netlify.app](https://emusiiwa-portfolio.netlify.app/)
